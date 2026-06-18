@@ -1,3 +1,9 @@
+<div align="center">
+
+[**Ler em Português**](./README.pt.md)
+
+</div>
+
 # Hi guys, I'm João Lucas 😀
 My name is João Lucas. I am passionate about technology and enjoy studying and discovering new things. I have a good sense of humor, like facing new challenges, and prefer working in groups. In 2021, I was accepted to FATEC in the 1st colocation. Among my certifications is the TOEIC, making me the first Brazilian with cerebral palsy to achieve this. Currently, I am a open-source contributor and involved in open-source community.
 ## Profissional experiences
